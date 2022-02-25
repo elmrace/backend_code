@@ -1,0 +1,15 @@
+24-02-2022 00:30:50 error: 	Cep Telefonu alanı zorunlu alandır.
+24-02-2022 00:32:18 error: 	Cep Telefonu alanı zorunlu alandır.
+24-02-2022 00:37:45 error: 	Cep Telefonu alanı zorunlu alandır.
+24-02-2022 00:38:39 error: 	Validation PostmanRuntime/7.29.0 400 Cep Telefonu alanı zorunlu alandır.
+24-02-2022 00:40:28 error: 	Validation PostmanRuntime/7.29.0 400 Cep Telefonu alanı zorunlu alandır.
+24-02-2022 00:47:44 error: 	Validation PostmanRuntime/7.29.0 400 Cep Telefonu alanı zorunlu alandır.
+24-02-2022 00:49:27 error: 	Validation PostmanRuntime/7.29.0 400 Cep Telefonu alanı zorunlu alandır.
+25-02-2022 12:19:06 error: 	Validation PostmanRuntime/7.29.0 400 Adı Soyadı alanı zorunlu alandır.
+25-02-2022 12:19:30 error: 	Validation PostmanRuntime/7.29.0 400 Adı Soyadı alanı zorunlu alandır.
+25-02-2022 12:20:00 error: 	Validation PostmanRuntime/7.29.0 400 Adı Soyadı alanı zorunlu alandır.
+25-02-2022 12:20:36 error: 	Validation PostmanRuntime/7.29.0 400 Adı Soyadı alanı zorunlu alandır.
+25-02-2022 12:21:16 error: 	Validation PostmanRuntime/7.29.0 400 Cep Telefonu alanı zorunlu alandır.
+25-02-2022 12:22:46 error: 	undefined undefined undefined Cannot read properties of undefined (reading '__Service')
+25-02-2022 12:41:22 error: 	store PostmanRuntime/7.29.0 400 E11000 duplicate key error collection: typescript_test.users index: gsm_1 dup key: { gsm: "123123123" }
+25-02-2022 12:41:47 error: 	Validation PostmanRuntime/7.29.0 400 Cep Telefonu alanı en az 9 karakter olmalıdır.
